@@ -1,0 +1,13 @@
+=> 
+[[32m#<Micropost:0x00007841d4b80798[0m
+  id: [34m[1m9[0m,
+  content: [31m[1m"[0m[31mHello Rails![0m[31m[1m"[0m,
+  user_id: [34m[1m2[0m,
+  created_at: Wed, 16 Apr 2025 04:31:49.875534000 UTC +00:00,
+  updated_at: Wed, 16 Apr 2025 04:31:49.875534000 UTC +00:00[32m>[0m,
+ [32m#<Micropost:0x00007841d4b80658[0m
+  id: [34m[1m10[0m,
+  content: [31m[1m"[0m[31mHello Yuh![0m[31m[1m"[0m,
+  user_id: [34m[1m2[0m,
+  created_at: Wed, 16 Apr 2025 04:32:31.280613000 UTC +00:00,
+  updated_at: Wed, 16 Apr 2025 04:32:31.280613000 UTC +00:00[32m>[0m]
